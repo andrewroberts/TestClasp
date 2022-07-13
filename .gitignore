@@ -1,0 +1,3 @@
+*.json
+!appsscript.json
+*.ts
